@@ -14,7 +14,7 @@
 </head>
 <body>
 <div class="container pt-3">
-main1	ui 작업
-</div> 
+step1 이야 임마
+</div>
 </body>
 </html>
